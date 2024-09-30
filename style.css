@@ -1,2 +1,28 @@
+/* This is a CSS COMENT */
 
+/* Select elements by TYPE */
+p {
+    color: rgb(0, 128, 92); 
 
+}
+h1, h2, h3 {
+    font-family: sans-serif;
+    color: dodgerblue
+}
+    /* Select elements by CLASS NAME*/
+    .border {
+        border: 2px solid black;
+    
+    }
+}
+/* Select elements by CLASS NAME*/
+.border {
+    border: 2px solid rgb(0, 0, 0);
+
+}
+
+/* Select unique element by ID NAME */
+#intro {
+    background-color:rgb(180, 226, 43);
+
+}
