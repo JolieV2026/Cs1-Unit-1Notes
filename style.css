@@ -26,3 +26,14 @@ h1, h2, h3 {
     background-color:rgb(180, 226, 43);
 
 }
+
+img {
+    border-width: 10px;
+    border-style: double;
+    border-color: rgb(105, 153, 255);
+    border-radius: 50%;
+    padding: 5px;
+    calc(
+
+    )
+}
