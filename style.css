@@ -14,7 +14,7 @@ h1, h2, h3 {
         border: 2px solid black;
     
     }
-}
+
 /* Select elements by CLASS NAME*/
 .border {
     border: 2px solid rgb(0, 0, 0);
@@ -33,7 +33,17 @@ img {
     border-color: rgb(105, 153, 255);
     border-radius: 50%;
     padding: 5px;
-    calc(
 
-    )
+}
+
+/* TIP: How to center anything */
+.centered {
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    padding: 10px;
+    margin: 5%;
 }
